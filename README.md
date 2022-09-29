@@ -1,16 +1,18 @@
-### Hi there 👋
+### System.out.println("Hello World!"); 👋🏼
 
-<!--
-**hamiltonGomes/hamiltonGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm study Systems for Internet at Unicap;
+- 📫 Reach me here:
+<div>
+<a href="https://www.linkedin.com/in/hamiltongomes-8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:hamilton.gomes8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/hamilton.png/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+- 📊 Stats:
+<div>
+<a href="https://github.com/hamiltonGomes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamiltonGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonGomes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/hamiltonGomes/hamiltonGomes/blob/output/github-contribution-grid-snake.svg)
