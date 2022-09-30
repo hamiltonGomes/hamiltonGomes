@@ -1,7 +1,7 @@
 ### System.out.println("Hello World!"); 👋🏼
 <hr>
 
-- 👨‍💻 I'm studying Systems for Internet at Unicap.
+- 👨‍💻 I'm studying Systems for Internet at Universidade Católica de Pernambuco.
 - 📫 Reach me here:
 
 <div align="center">
