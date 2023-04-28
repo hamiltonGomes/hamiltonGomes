@@ -20,4 +20,3 @@
 <!--
 ![Snake animation](https://github.com/hamiltonGomes/hamiltonGomes/blob/output/github-contribution-grid-snake.svg)
 -->
-  
