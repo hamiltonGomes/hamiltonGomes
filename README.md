@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, spring, python, flask, selenium, postman, javascript, html, css, react, git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,selenium,postman,javascript,html,css,react,git" />
   </a>
 </div>
 
