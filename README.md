@@ -1,8 +1,11 @@
 ### System.out.println("Hello World!"); 👋🏼
 <hr>
 
-- 👨‍💻 I'm studying Systems for Internet at the Universidade Católica de Pernambuco.
-
+- 📚 I'm a student of Internet Systems Development at UNICAP.
+- 🏗️ I'm actively studying **Java, Spring Boot, JUnit, SQL, and database systems** to create increasingly complex backend projects, while also exploring **cloud computing with AWS.**
+  
+- 👨‍💻 I currently work on the CIn/Motorola Project as a Software Developer in Test Automation. In this position I use resources from **Python, Flask, Pytest, Selenium, Jenkins and others.**
+  
 - 💻 My skills:
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
