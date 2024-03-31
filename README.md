@@ -2,8 +2,8 @@
 <hr>
 
 - 📚 I'm a student of Internet Systems Development at UNICAP.
-- 🏗️ I'm actively studying **Java, Spring Boot, Angular and database systems** to create increasingly complex backend projects, while also exploring **cloud computing with Azure.**
-- 👨‍💻 I currently work on the CIn/Motorola Project as a Software Developer in Test Automation. In this position I use resources from **Python, Flask, Pytest, Selenium, Jenkins and others.**
+- 🎲 I'm passionate about technology, board games and cinema. 
+- 👨‍💻 I currently work on the CIn/Motorola Project as a Software Developer in Test Automation. In this position I use resources from **Python, Flask, Pytest, Selenium, Jenkins, Jira API and others.**
   
 - 💻 My skills:
 
