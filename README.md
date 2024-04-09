@@ -3,7 +3,7 @@
 
 - 📚 I'm a student of Internet Systems Development at UNICAP.
 - 🎲 I'm passionate about development, automation, hamburgers, board games and cinema.
-- 👨‍💻 I currently work on the CIn/Motorola Project as a Software Developer in Test Automation. In this position I use resources from **Python, Flask, Pytest, Selenium, Jenkins, Jira API and others.**
+- 👨‍💻 I currently work on the CIn/Motorola Project as a Software Developer in Test Automation. In this position I use resources from **Python, Flask, Pytest, Selenium, Git, Gerrit, Jenkins, Jira API, Google API and others.**
   
 - 💻 My skills:
 
