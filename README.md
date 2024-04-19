@@ -12,7 +12,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Java-3DB723?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-3DB723?style=for-the-badge&logo=spring&logoColor=white"/>
-  
+
 <img src="https://img.shields.io/badge/Apache%20Kafka-0F5700?style=for-the-badge&logo=apachekafka"/>
 <img src="https://img.shields.io/badge/Hibernate-0F5700?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-0F5700?style=for-the-badge&logo=JSON%20web%20tokens"/>
@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/sqlite-0F5700?logo=sqlite&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3DB723?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-3DB723?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-3DB723?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%3DB723.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/azure-%3DB723.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/node.js-0F5700?logo=node.js&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-0F5700?logo=npm&style=for-the-badge&logoColor=white"/>
