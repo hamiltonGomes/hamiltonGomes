@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/Hibernate-0F5700?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-0F5700?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/docker-0F5700?logo=docker&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insomnia-3DB723?style=for-the-badge&logo=insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-3DB723?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-0F5700?style=for-the-badge&logo=insomnia&logoColor=white"/>
 <img src="(https://img.shields.io/badge/-Swagger-3DB723?style=for-the-badge&logo=swagger&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/python-3DB723?logo=python&style=for-the-badge&logoColor=white"/>
@@ -50,18 +50,19 @@
 
 <img src="https://img.shields.io/badge/jenkins-0F5700?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-3DB723?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-0F5700?logo=vercel&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-3DB723?logo=vercel&style=for-the-badge&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/android%20studio-0F5700?style=for-the-badge&logo=android%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJIDEA-3DB723.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-3DB723?style=for-the-badge&logo=pycharm&logoColor=white&color=3DB723&labelColor=3DB723"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-3DB723?logo=visual-studio-code&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0F5700?style=for-the-badge&logo=Trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/jira-0F5700?logo=jira&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-0F5700?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-3DB723?logo=jira&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/confluence-%3DB723.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/figma-3DB723?logo=figma&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-0F5700?style=for-the-badge&logo=Canva&logoColor=white"/>
-
 
 </p>
 
