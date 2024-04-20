@@ -2,9 +2,9 @@
 
 ### **About me:**
 
-* Hamilton Gomes, 24 years
-* Backend Developer
-* I'm passionate about development, automation, cycling, board games and cinema
+* Hamilton Gomes, 24 years.
+* Backend Developer.
+* I'm passionate about development, automation, cycling, board games and cinema.
 
 ### **Skills:**
 
