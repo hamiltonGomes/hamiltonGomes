@@ -4,7 +4,6 @@
 
 * Hamilton Gomes, 24 years
 * Backend Developer
-* I started programming in July 2022
 * I'm passionate about development, automation, cycling, board games and cinema
 
 ### **Skills:**
@@ -72,6 +71,8 @@
 <a href="https://www.linkedin.com/in/hamiltongomes-8/"><img src="https://img.shields.io/badge/LinkedIn-3DB723?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:hamilton.gomes8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-157B00?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.hackerrank.com/profile/hamilton_gomes8"><img src="https://img.shields.io/badge/-Hackerrank-3DB723?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href="https://www.codewars.com/users/hamiltonGomes"><img src="https://img.shields.io/badge/Codewars-157B00?style=for-the-badge&logo=codewars&logoColor=white"></a>
+
 </div>
 
 ### **Stats:**
