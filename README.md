@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Java-3DB723?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-3DB723?style=for-the-badge&logo=spring&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-0F5700?style=for-the-badge&logo=apachekafka"/>
+<!-- <img src="https://img.shields.io/badge/Apache%20Kafka-0F5700?style=for-the-badge&logo=apachekafka"/> -->
 <img src="https://img.shields.io/badge/Hibernate-0F5700?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-0F5700?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/docker-0F5700?logo=docker&style=for-the-badge&logoColor=white"/>
