@@ -7,7 +7,6 @@
 * I'm passionate about development, automation, cycling, board games and cinema.
 
 ### **Skills:**
-
 <p align="left">
 <img src="https://img.shields.io/badge/Java-3DB723?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-3DB723?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -62,7 +61,6 @@
 
 <img src="https://img.shields.io/badge/figma-3DB723?logo=figma&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-0F5700?style=for-the-badge&logo=Canva&logoColor=white"/>
-
 </p>
 
 ### **You can find me on:**
@@ -72,15 +70,14 @@
 <a href="mailto:hamilton.gomes8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-157B00?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.hackerrank.com/profile/hamilton_gomes8"><img src="https://img.shields.io/badge/-Hackerrank-3DB723?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://www.codewars.com/users/hamiltonGomes"><img src="https://img.shields.io/badge/Codewars-157B00?style=for-the-badge&logo=codewars&logoColor=white"></a>
-
 </div>
 
 ### **Stats:**
 
 <div>
-<a href="https://github.com/hamiltonGomes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamiltonGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonGomes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<!-- <a href="https://github.com/hamiltonGomes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamiltonGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> -->
 </div>
 
 <!-- Paleta de cores -->
