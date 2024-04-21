@@ -3,7 +3,7 @@
 ### **About me:**
 
 * Hamilton Gomes, 24 years.
-* Backend Developer.
+* Internet Systems Student @UNICAP
 * I'm passionate about development, automation, cycling, board games and cinema.
 
 ### **Skills:**
