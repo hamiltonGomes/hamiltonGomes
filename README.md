@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/npm-0F5700?logo=npm&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-0F5700?logo=typescript&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-0F5700?logo=javascript&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-3DB723?logo=figma&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-0F5700?logo=bootstrap&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-0F5700?logo=react&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-0F5700?logo=html5&style=for-the-badge&logoColor=white"/>
@@ -58,9 +59,6 @@
 <img src="https://img.shields.io/badge/Slack-0F5700?style=for-the-badge&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-3DB723?logo=jira&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-%3DB723.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/figma-3DB723?logo=figma&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-0F5700?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
 ### **You can find me on:**
