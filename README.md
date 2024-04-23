@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/Hibernate-0F5700?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-0F5700?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/docker-0F5700?logo=docker&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-3DB723?style=for-the-badge&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-3DB723?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-0F5700?style=for-the-badge&logo=insomnia&logoColor=white"/>
-<img src="(https://img.shields.io/badge/-Swagger-3DB723?style=for-the-badge&logo=swagger&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/python-3DB723?logo=python&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask-3DB723?logo=flask&style=for-the-badge&logoColor=white"/>
