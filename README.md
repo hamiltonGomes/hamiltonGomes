@@ -31,9 +31,6 @@
 <img src="https://img.shields.io/badge/AWS-%3DB723.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure-%3DB723.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/node.js-0F5700?logo=node.js&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-0F5700?logo=npm&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-0F5700?logo=typescript&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-0F5700?logo=javascript&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-3DB723?logo=figma&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-0F5700?logo=bootstrap&style=for-the-badge&logoColor=white"/>
