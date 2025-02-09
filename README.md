@@ -24,12 +24,9 @@
 
 <img src="https://img.shields.io/badge/MySQL-3DB723?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3DB723?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<!-- <img src="https://img.shields.io/badge/AWS-%3DB723.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/azure-%3DB723.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/javascript-0F5700?logo=javascript&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-0F5700?logo=react&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-0F5700?logo=html5&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-0F5700?logo=css3&style=for-the-badge&logoColor=white"/>
 
