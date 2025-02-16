@@ -47,11 +47,6 @@
 <img src="https://img.shields.io/badge/confluence-%3DB723.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
 
-### 🚀 **GitHub Stats:**
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonGomes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
 
 ### 📬 **You can find me on:**
 
@@ -61,6 +56,10 @@
 <a href="https://www.hackerrank.com/profile/hamilton_gomes8"><img src="https://img.shields.io/badge/-Hackerrank-3DB723?style=for-the-badge&logoColor=white"></a>
 </div>
 
-<br>
-
 💬 Feel free to reach out!
+
+### 🚀 **GitHub Stats:**
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonGomes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
