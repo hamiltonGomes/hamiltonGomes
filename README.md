@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Postman-3DB723?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-0F5700?style=for-the-badge&logo=insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3DB723?logo=python&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask-0F5700.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/-selenium-3DB723?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-3DB723?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3DB723?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -34,7 +33,6 @@
 <img src="https://img.shields.io/badge/git-3DB723?logo=git&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-0F5700?logo=github&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions-3DB723.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/jenkins-0F5700?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-0F5700?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-3DB723?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/vercel-3DB723?logo=vercel&style=for-the-badge&logoColor=white"/>
