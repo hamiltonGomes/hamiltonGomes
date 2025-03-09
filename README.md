@@ -15,12 +15,10 @@
 <img src="https://img.shields.io/badge/Apache%20Maven-0F5700?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-0F5700?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-0F5700?style=for-the-badge&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/docker-0F5700?logo=docker&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-3DB723?style=for-the-badge&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-3DB723?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-0F5700?style=for-the-badge&logo=insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3DB723?logo=python&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/-selenium-3DB723?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-3DB723?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-3DB723?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure-%3DB723.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -40,7 +38,6 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-3DB723.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-3DB723?style=for-the-badge&logo=pycharm&logoColor=white&color=3DB723&labelColor=3DB723"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-3DB723?logo=visual-studio-code&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0F5700?style=for-the-badge&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-3DB723?logo=jira&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-%3DB723.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
