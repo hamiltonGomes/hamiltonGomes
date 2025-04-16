@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 **About me:**
 
-* Hamilton Gomes, 24 years
+* Hamilton Gomes, 25 years
 * Software Developer @Deloitte
 * Graduated in Internet Systems @UNICAP
 * I'm passionate about development, automation, cycling, board games and cinema
@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/jira-3DB723?logo=jira&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-%3DB723.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
-
 
 ### 📬 **You can find me on:**
 
