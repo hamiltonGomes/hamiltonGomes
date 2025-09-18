@@ -47,7 +47,7 @@
 <div>
 <a href="https://www.linkedin.com/in/hamiltongomes-8/"><img src="https://img.shields.io/badge/LinkedIn-3DB723?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:hamilton.gomes8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-157B00?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://www.hackerrank.com/profile/hamilton_gomes8"><img src="https://img.shields.io/badge/-Hackerrank-3DB723?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.hackerrank.com/profile/hamilton_code"><img src="https://img.shields.io/badge/-Hackerrank-3DB723?style=for-the-badge&logoColor=white"></a>
 </div>
 
 💬 Feel free to reach out!
