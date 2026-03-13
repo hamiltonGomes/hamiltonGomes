@@ -3,7 +3,7 @@
 ### 🧑🏻‍💻 **About me:**
 
 * Hamilton Gomes, 25 years
-* Software Developer @Deloitte
+* Software Developer @Avanade
 * Graduated in Internet Systems @UNICAP
 * I'm passionate about development, automation, cycling, board games and cinema
 
