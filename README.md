@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 **About me:**
 
-* Hamilton Gomes, 25 years
+* Hamilton Gomes, 26 years
 * Software Developer @Avanade
 * Graduated in Internet Systems @UNICAP
 * I'm passionate about development, automation, cycling, board games and cinema
